@@ -1,0 +1,20 @@
+
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
+
+Given Arr[]={2,7,11,15} , Target = 9  ;
+
+Output = [0,1] because 2+7 = 9 
+
+Ab isme 2 cases hai ki 
+
+Case 1 - Return Numbers( number in the array whose sum is equat to the Target) 
+    -> We can use 2 Pointer approach here after Sorting the Array only 
+
+Case 2 - Return Indexes 
+    -> 1 we can not use the 2 pointer approach because if we sort the array the indices will be changes for the values 
+    -> 2 We can use if the Array is already sorted 
+
+

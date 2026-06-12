@@ -1,0 +1,8 @@
+POINTS TO NOTE IN THIS PATTERN
+-> question  Array/LinkedList hi hoga 
+        Array-> sorted / sort if the data becomes easy after sorting 
+-> Merge/Remove Duplicate/Rearrange
+-> Detect Cycle 
+-> Pair/Triplets
+
+ye sab identities hai kisi questions ki, ki usme 2 Pointer approach lgegi ya nhi. 
